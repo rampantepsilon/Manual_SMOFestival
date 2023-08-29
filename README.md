@@ -4,6 +4,7 @@ For use with Manual Archipelago Client Only. (https://discord.gg/T5bcsVHByx)
 
 To Use:
 - Download all files as a ZIP folder
+- Rename the ZIP folder as a .apworld file
 - Add to /lib/worlds/ folder for Manual AP
 - Generate a YAML using the example below
 
