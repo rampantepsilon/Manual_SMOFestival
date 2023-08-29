@@ -1,0 +1,62 @@
+{
+	"Cap Kingdom": {
+		"starting": true,
+		"connects_to": [
+			"Cascade Kingdom"
+		],
+		"requires": []
+	},
+	"Cascade Kingdom": {
+		"connects_to": [
+			"Sand Kingdom"
+		],
+		"requires": []
+	},
+	"Sand Kingdom": {
+		"connects_to": [
+			"Lake Kingdom",
+			"Wooded Kingdom"
+		],
+		"requires": [
+			"Power Moon:5"
+		]
+	},
+	"Lake Kingdom": {
+		"connects_to": [
+			"Cloud Kingdom"
+		],
+		"requires": [
+			"Power Moon:21"
+		]
+	},
+	"Wooded Kingdom": {
+		"connects_to": [
+			"Cloud Kingdom"
+		],
+		"requires": [
+			"Power Moon:21"
+		]
+	},
+	"Cloud Kingdom": {
+		"connects_to": [
+			"Lost Kingdom"
+		],
+		"requires": [
+			"Power Moon:45"
+		]
+	},
+	"Lost Kingdom": {
+		"connects_to": [
+			"Metro Kingdom"
+		],
+		"requires": [
+			"Power Moon:45"
+		]
+	},
+	"Metro Kingdom": {
+		"connects_to": [],
+		"requires": [
+			"Power Moon:55"
+		]
+	}
+}

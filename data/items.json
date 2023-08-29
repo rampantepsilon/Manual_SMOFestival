@@ -1,0 +1,58 @@
+[
+	{
+		"count": "130",
+		"name": "Power Moon",
+		"category": [
+			"Moons"
+		],
+		"progression": true
+	},
+	{
+		"count": "1",
+		"name": "Cascade Story",
+		"category": [
+			"Unlocks"
+		],
+		"progression": true
+	},
+	{
+		"count": "4",
+		"name": "Sand Story",
+		"category": [
+			"Unlocks"
+		],
+		"progression": true
+	},
+	{
+		"count": "1",
+		"name": "Lake Story",
+		"category": [
+			"Unlocks"
+		],
+		"progression": true
+	},
+	{
+		"count": "4",
+		"name": "Wooded Story",
+		"category": [
+			"Unlocks"
+		],
+		"progression": true
+	},
+	{
+		"count": "2",
+		"name": "Metro Story",
+		"category": [
+			"Unlocks"
+		],
+		"progression": true
+	},
+	{
+		"count": "1",
+		"name": "NDC Power",
+		"category": [
+			"Beatable"
+		],
+		"progression": true
+	}
+]

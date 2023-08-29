@@ -1,0 +1,1809 @@
+[
+    {
+        "name": "(Cap) Topper 1",
+        "category": [
+            "0 - Cap [0]"
+        ],
+        "requires": [],
+        "region": "Cap Kingdom"
+    },
+    {
+        "name": "(Cap) Frog-Jumping Above the Fog",
+        "category": [
+            "0 - Cap [5]"
+        ],
+        "requires": "|Power Moon:5|",
+        "region": "Cap Kingdom"
+    },
+    {
+        "name": "(Cap) Frog-Jumping from the Top Deck",
+        "category": [
+            "0 - Cap [5]"
+        ],
+        "requires": "|Power Moon:5|",
+        "region": "Cap Kingdom"
+    },
+    {
+        "name": "(Cap) Cap Kingdom Timer Challenge 1",
+        "category": [
+            "0 - Cap [5]"
+        ],
+        "requires": "|Power Moon:5|",
+        "region": "Cap Kingdom"
+    },
+    {
+        "name": "(Cap) Good Evening, Captain Toad!",
+        "category": [
+            "0 - Cap [5]"
+        ],
+        "requires": "|Power Moon:5|",
+        "region": "Cap Kingdom"
+    },
+    {
+        "name": "(Cap) Shopping in Bonneton",
+        "category": [
+            "0 - Cap [5]"
+        ],
+        "requires": "|Power Moon:5|",
+        "region": "Cap Kingdom"
+    },
+    {
+        "name": "(Cap) Skimming the Poision Tide",
+        "category": [
+            "0 - Cap [5]"
+        ],
+        "requires": "|Power Moon:5|",
+        "region": "Cap Kingdom"
+    },
+    {
+        "name": "(Cap) Slipping Through the Poision Tide",
+        "category": [
+            "0 - Cap [5]"
+        ],
+        "requires": "|Power Moon:5|",
+        "region": "Cap Kingdom"
+    },
+    {
+        "name": "(Cap) Push-Block Peril",
+        "category": [
+            "0 - Cap [5]"
+        ],
+        "requires": "|Power Moon:5|",
+        "region": "Cap Kingdom"
+    },
+    {
+        "name": "(Cap) Hidden Among the Push-Blocks",
+        "category": [
+            "0 - Cap [5]"
+        ],
+        "requires": "|Power Moon:5|",
+        "region": "Cap Kingdom"
+    },
+    {
+        "name": "(Cap) Searching the Frog Pond",
+        "category": [
+            "0 - Cap [5]"
+        ],
+        "requires": "|Power Moon:5|",
+        "region": "Cap Kingdom"
+    },
+    {
+        "name": "(Cap) Secrets of the Frog Pond",
+        "category": [
+            "0 - Cap [5]"
+        ],
+        "requires": "|Power Moon:5|",
+        "region": "Cap Kingdom"
+    },
+    {
+        "name": "(Cascade) Our First Power Moon",
+        "category": [
+            "01 - Cascade [0]"
+        ],
+        "requires": [],
+        "region": "Cascade Kingdom"
+    },
+    {
+        "name": "(Cascade) Multi Moon Atop the Falls 1",
+        "category": [
+            "01 - Cascade [0]"
+        ],
+        "requires": [],
+        "region": "Cascade Kingdom",
+        "place_item": [
+            "Cascade Story"
+        ]
+    },
+    {
+        "name": "(Cascade) Multi Moon Atop the Falls 2",
+        "category": [
+            "01 - Cascade [0]"
+        ],
+        "requires": [],
+        "region": "Cascade Kingdom"
+    },
+    {
+        "name": "(Cascade) Multi Moon Atop the Falls 3",
+        "category": [
+            "01 - Cascade [0]"
+        ],
+        "requires": [],
+        "region": "Cascade Kingdom"
+    },
+    {
+        "name": "(Cascade) Chomp Through the Rocks",
+        "category": [
+            "01 - Cascade [0]"
+        ],
+        "requires": [],
+        "region": "Cascade Kingdom"
+    },
+    {
+        "name": "(Cascade) Behind the Waterfall",
+        "category": [
+            "01 - Cascade [0]"
+        ],
+        "requires": [],
+        "region": "Cascade Kingdom"
+    },
+    {
+        "name": "(Cascade) On Top of the Rubble",
+        "category": [
+            "01 - Cascade [0]"
+        ],
+        "requires": "|Cascade Story:1|",
+        "region": "Cascade Kingdom"
+    },
+    {
+        "name": "(Cascade) Treasure of the Waterfall Basin",
+        "category": [
+            "01 - Cascade [0]"
+        ],
+        "requires": "|Cascade Story:1|",
+        "region": "Cascade Kingdom"
+    },
+    {
+        "name": "(Cascade) Above a High Cliff",
+        "category": [
+            "01 - Cascade [0]"
+        ],
+        "requires": "|Cascade Story:1|",
+        "region": "Cascade Kingdom"
+    },
+    {
+        "name": "(Cascade) Across the Floating Isles",
+        "category": [
+            "01 - Cascade [0]"
+        ],
+        "requires": "|Cascade Story:1|",
+        "region": "Cascade Kingdom"
+    },
+    {
+        "name": "(Cascade) Cascade Kingdom Timer Challenge 1",
+        "category": [
+            "01 - Cascade [0]"
+        ],
+        "requires": "|Cascade Story:1|",
+        "region": "Cascade Kingdom"
+    },
+    {
+        "name": "(Cascade) Cascade Kingdom Timer Challenge 2",
+        "category": [
+            "01 - Cascade [0]"
+        ],
+        "requires": "|Cascade Story:1|",
+        "region": "Cascade Kingdom"
+    },
+    {
+        "name": "(Cascade) Good Morning, Captain Toad!",
+        "category": [
+            "01 - Cascade [0]"
+        ],
+        "requires": "|Cascade Story:1|",
+        "region": "Cascade Kingdom"
+    },
+    {
+        "name": "(Cascade) Dinosaur Nest: Big Cleanup!",
+        "category": [
+            "01 - Cascade [0]"
+        ],
+        "requires": "|Cascade Story:1|",
+        "region": "Cascade Kingdom"
+    },
+    {
+        "name": "(Cascade) Dinosaur Nest: Running Wild!",
+        "category": [
+            "01 - Cascade [0]"
+        ],
+        "requires": "|Cascade Story:1|",
+        "region": "Cascade Kingdom"
+    },
+    {
+        "name": "(Cascade) Nice Shot with the Chain Chomp!",
+        "category": [
+            "01 - Cascade [0]"
+        ],
+        "requires": "|Cascade Story:1|",
+        "region": "Cascade Kingdom"
+    },
+    {
+        "name": "(Cascade) Very Nice Shot with the Chain Chomp!",
+        "category": [
+            "01 - Cascade [0]"
+        ],
+        "requires": "|Cascade Story:1|",
+        "region": "Cascade Kingdom"
+    },
+    {
+        "name": "(Cascade) Past the Chasm Lifts",
+        "category": [
+            "01 - Cascade [0]"
+        ],
+        "requires": "|Cascade Story:1|",
+        "region": "Cascade Kingdom"
+    },
+    {
+        "name": "(Cascade) Hidden Chasm Passage",
+        "category": [
+            "01 - Cascade [0]"
+        ],
+        "requires": "|Cascade Story:1|",
+        "region": "Cascade Kingdom"
+    },
+    {
+        "name": "(Cascade) Rolling Rock by the Falls",
+        "category": [
+            "01 - Cascade [0]"
+        ],
+        "requires": "|Cascade Story:1|",
+        "region": "Cascade Kingdom"
+    },
+    {
+        "name": "(Cascade) Shopping in Fossil Falls",
+        "category": [
+            "01 - Cascade [0]"
+        ],
+        "requires": "|Cascade Story:1|",
+        "region": "Cascade Kingdom"
+    },
+    {
+        "name": "(Sand) Atop the Highest Tower",
+        "category": [
+            "02 - Sand [5]"
+        ],
+        "requires": [],
+        "region": "Sand Kingdom",
+        "place_item": [
+            "Sand Story"
+        ]
+    },
+    {
+        "name": "(Sand) Moon Shards In The Sand",
+        "category": [
+            "02 - Sand [5]"
+        ],
+        "requires": "|Sand Story:1|",
+        "region": "Sand Kingdom",
+        "place_item": [
+            "Sand Story"
+        ]
+    },
+    {
+        "name": "(Sand) Showdown on the Inverted Pyramid 1",
+        "category": [
+            "02 - Sand [5]"
+        ],
+        "requires": "|Sand Story:2|",
+        "region": "Sand Kingdom",
+        "place_item": [
+            "Sand Story"
+        ]
+    },
+    {
+        "name": "(Sand) Showdown on the Inverted Pyramid 2",
+        "category": [
+            "02 - Sand [5]"
+        ],
+        "requires": "|Sand Story:2|",
+        "region": "Sand Kingdom"
+    },
+    {
+        "name": "(Sand) Showdown on the Inverted Pyramid 3",
+        "category": [
+            "02 - Sand [5]"
+        ],
+        "requires": "|Sand Story:2|",
+        "region": "Sand Kingdom"
+    },
+    {
+        "name": "(Sand) The Hole in the Desert 1",
+        "category": [
+            "02 - Sand [5]"
+        ],
+        "requires": "|Sand Story:3|",
+        "region": "Sand Kingdom",
+        "place_item": [
+            "Sand Story"
+        ]
+    },
+    {
+        "name": "(Sand) The Hole in the Desert 2",
+        "category": [
+            "02 - Sand [5]"
+        ],
+        "requires": "|Sand Story:3|",
+        "region": "Sand Kingdom"
+    },
+    {
+        "name": "(Sand) The Hole in the Desert 3",
+        "category": [
+            "02 - Sand [5]"
+        ],
+        "requires": "|Sand Story:3|",
+        "region": "Sand Kingdom"
+    },
+    {
+        "name": "(Sand) Overlooking the Desert Town",
+        "category": [
+            "02 - Sand [5]"
+        ],
+        "requires": [],
+        "region": "Sand Kingdom"
+    },
+    {
+        "name": "(Sand) Alcove in the Ruins",
+        "category": [
+            "02 - Sand [5]"
+        ],
+        "requires": [],
+        "region": "Sand Kingdom"
+    },
+    {
+        "name": "(Sand) On the Leaning Pillar",
+        "category": [
+            "02 - Sand [5]"
+        ],
+        "requires": [],
+        "region": "Sand Kingdom"
+    },
+    {
+        "name": "(Sand) Hidden Room in the Flowing Sands",
+        "category": [
+            "02 - Sand [5]"
+        ],
+        "requires": [],
+        "region": "Sand Kingdom"
+    },
+    {
+        "name": "(Sand) Secret of the Mural",
+        "category": [
+            "02 - Sand [5]"
+        ],
+        "requires": [],
+        "region": "Sand Kingdom"
+    },
+    {
+        "name": "(Sand) Secret of the Inverted Mural",
+        "category": [
+            "02 - Sand [5]"
+        ],
+        "requires": "|Sand Story:2|",
+        "region": "Sand Kingdom"
+    },
+    {
+        "name": "(Sand) On Top of the Stone Archway",
+        "category": [
+            "02 - Sand [5]"
+        ],
+        "requires": [],
+        "region": "Sand Kingdom"
+    },
+    {
+        "name": "(Sand) From a Crate in the Ruins",
+        "category": [
+            "02 - Sand [5]"
+        ],
+        "requires": [],
+        "region": "Sand Kingdom"
+    },
+    {
+        "name": "(Sand) On the Lone Pillar",
+        "category": [
+            "02 - Sand [5]"
+        ],
+        "requires": [],
+        "region": "Sand Kingdom"
+    },
+    {
+        "name": "(Sand) On the Statue's Tail",
+        "category": [
+            "02 - Sand [5]"
+        ],
+        "requires": "|Sand Story:2|",
+        "region": "Sand Kingdom"
+    },
+    {
+        "name": "(Sand) Hang Your Hat on the Fountain",
+        "category": [
+            "02 - Sand [5]"
+        ],
+        "requires": "|Sand Story:4|",
+        "region": "Sand Kingdom"
+    },
+    {
+        "name": "(Sand) Where the Birds Gather",
+        "category": [
+            "02 - Sand [5]"
+        ],
+        "requires": [],
+        "region": "Sand Kingdom"
+    },
+    {
+        "name": "(Sand) Top of a Dune",
+        "category": [
+            "02 - Sand [5]"
+        ],
+        "requires": [],
+        "region": "Sand Kingdom"
+    },
+    {
+        "name": "(Sand) Lost in the Luggage",
+        "category": [
+            "02 - Sand [5]"
+        ],
+        "requires": [],
+        "region": "Sand Kingdom"
+    },
+    {
+        "name": "(Sand) Bullet Bill Breakthrough",
+        "category": [
+            "02 - Sand [5]"
+        ],
+        "requires": "|Sand Story:3|",
+        "region": "Sand Kingdom"
+    },
+    {
+        "name": "(Sand) Inside a Block Is a Hard Place",
+        "category": [
+            "02 - Sand [5]"
+        ],
+        "requires": [],
+        "region": "Sand Kingdom"
+    },
+    {
+        "name": "(Sand) Bird Traveling the Desert",
+        "category": [
+            "02 - Sand [5]"
+        ],
+        "requires": [],
+        "region": "Sand Kingdom"
+    },
+    {
+        "name": "(Sand) Bird Traveling the Wastes",
+        "category": [
+            "02 - Sand [5]"
+        ],
+        "requires": [],
+        "region": "Sand Kingdom"
+    },
+    {
+        "name": "(Sand) The Lurker Under the Stone",
+        "category": [
+            "02 - Sand [5]"
+        ],
+        "requires": "|Sand Story:4|",
+        "region": "Sand Kingdom"
+    },
+    {
+        "name": "(Sand) The Treasure of Jaxi Ruins",
+        "category": [
+            "02 - Sand [5]"
+        ],
+        "requires": [],
+        "region": "Sand Kingdom"
+    },
+    {
+        "name": "(Sand) Sand Kingdom Timer Challenge 1",
+        "category": [
+            "02 - Sand [5]"
+        ],
+        "requires": "|Sand Story:4|",
+        "region": "Sand Kingdom"
+    },
+    {
+        "name": "(Sand) Sand Kingdom Timer Challenge 2",
+        "category": [
+            "02 - Sand [5]"
+        ],
+        "requires": "|Sand Story:4|",
+        "region": "Sand Kingdom"
+    },
+    {
+        "name": "(Sand) Sand Kingdom Timer Challenge 3",
+        "category": [
+            "02 - Sand [5]"
+        ],
+        "requires": "|Sand Story:4|",
+        "region": "Sand Kingdom"
+    },
+    {
+        "name": "(Sand) Found in the Sand! Good Dog!",
+        "category": [
+            "02 - Sand [5]"
+        ],
+        "requires": "|Sand Story:4|",
+        "region": "Sand Kingdom"
+    },
+    {
+        "name": "(Sand) Taking Notes: Jump on the Palm",
+        "category": [
+            "02 - Sand [5]"
+        ],
+        "requires": [],
+        "region": "Sand Kingdom"
+    },
+    {
+        "name": "(Sand) Love in the Heart of the Desert",
+        "category": [
+            "02 - Sand [5]"
+        ],
+        "requires": "|Sand Story:4|",
+        "region": "Sand Kingdom"
+    },
+    {
+        "name": "(Sand) Among the Five Cactuses",
+        "category": [
+            "02 - Sand [5]"
+        ],
+        "requires": [],
+        "region": "Sand Kingdom"
+    },
+    {
+        "name": "(Sand) Jaxi Reunion!",
+        "category": [
+            "02 - Sand [5]"
+        ],
+        "requires": "|Sand Story:4|",
+        "region": "Sand Kingdom"
+    },
+    {
+        "name": "(Sand) Welcome Back, Jaxi!",
+        "category": [
+            "02 - Sand [5]"
+        ],
+        "requires": "|Sand Story:4|",
+        "region": "Sand Kingdom"
+    },
+    {
+        "name": "(Sand) Wandering Cactus",
+        "category": [
+            "02 - Sand [5]"
+        ],
+        "requires": [],
+        "region": "Sand Kingdom"
+    },
+    {
+        "name": "(Sand) Sand Quiz: Wonderful!",
+        "category": [
+            "02 - Sand [5]"
+        ],
+        "requires": [],
+        "region": "Sand Kingdom"
+    },
+    {
+        "name": "(Sand) Shopping in Tostarena",
+        "category": [
+            "02 - Sand [5]"
+        ],
+        "requires": [],
+        "region": "Sand Kingdom"
+    },
+    {
+        "name": "(Sand) Employees Only",
+        "category": [
+            "02 - Sand [5]"
+        ],
+        "requires": [],
+        "region": "Sand Kingdom"
+    },
+    {
+        "name": "(Sand) Sand Kingdom Slots",
+        "category": [
+            "02 - Sand [5]"
+        ],
+        "requires": [],
+        "region": "Sand Kingdom"
+    },
+    {
+        "name": "(Sand) Walking the Desert!",
+        "category": [
+            "02 - Sand [5]"
+        ],
+        "requires": [],
+        "region": "Sand Kingdom"
+    },
+    {
+        "name": "(Sand) Hidden Room in the Inverted Pyramid",
+        "category": [
+            "02 - Sand [5]"
+        ],
+        "requires": "|Sand Story:2|",
+        "region": "Sand Kingdom"
+    },
+    {
+        "name": "(Sand) Underground Treasure Chest",
+        "category": [
+            "02 - Sand [5]"
+        ],
+        "requires": "|Sand Story:3|",
+        "region": "Sand Kingdom"
+    },
+    {
+        "name": "(Sand) Goomba Tower Assembly",
+        "category": [
+            "02 - Sand [5]"
+        ],
+        "requires": "|Sand Story:3|",
+        "region": "Sand Kingdom"
+    },
+    {
+        "name": "(Sand) Under the Mummy's Curse",
+        "category": [
+            "02 - Sand [5]"
+        ],
+        "requires": "|Sand Story:4|",
+        "region": "Sand Kingdom"
+    },
+    {
+        "name": "(Sand) Ice Cave Treasure",
+        "category": [
+            "02 - Sand [5]"
+        ],
+        "requires": [],
+        "region": "Sand Kingdom"
+    },
+    {
+        "name": "(Sand) Sphynx's Treasure Vault",
+        "category": [
+            "02 - Sand [5]"
+        ],
+        "requires": [],
+        "region": "Sand Kingdom"
+    },
+    {
+        "name": "(Sand) A Rumble from the Sandy Floor",
+        "category": [
+            "02 - Sand [5]"
+        ],
+        "requires": [],
+        "region": "Sand Kingdom"
+    },
+    {
+        "name": "(Sand) Dancing with New Friends",
+        "category": [
+            "02 - Sand [5]"
+        ],
+        "requires": [],
+        "region": "Sand Kingdom"
+    },
+    {
+        "name": "(Sand) The Invisible Maze",
+        "category": [
+            "02 - Sand [5]"
+        ],
+        "requires": [],
+        "region": "Sand Kingdom"
+    },
+    {
+        "name": "(Sand) Skull Sign in the Transparent Maze",
+        "category": [
+            "02 - Sand [5]"
+        ],
+        "requires": [],
+        "region": "Sand Kingdom"
+    },
+    {
+        "name": "(Sand) The Bullet Bill Maze: Break Through!",
+        "category": [
+            "02 - Sand [5]"
+        ],
+        "requires": [],
+        "region": "Sand Kingdom"
+    },
+    {
+        "name": "(Sand) The Bullet Bill Maze: Side Path",
+        "category": [
+            "02 - Sand [5]"
+        ],
+        "requires": [],
+        "region": "Sand Kingdom"
+    },
+    {
+        "name": "(Sand) Jaxi Driver",
+        "category": [
+            "02 - Sand [5]"
+        ],
+        "requires": [],
+        "region": "Sand Kingdom"
+    },
+    {
+        "name": "(Sand) Jaxi Stunt Driving",
+        "category": [
+            "02 - Sand [5]"
+        ],
+        "requires": [],
+        "region": "Sand Kingdom"
+    },
+    {
+        "name": "(Sand) Strange Neighborhood",
+        "category": [
+            "02 - Sand [5]"
+        ],
+        "requires": "|Sand Story:4|",
+        "region": "Sand Kingdom"
+    },
+    {
+        "name": "(Sand) Above a Strange Neighborhood",
+        "category": [
+            "02 - Sand [5]"
+        ],
+        "requires": "|Sand Story:4|",
+        "region": "Sand Kingdom"
+    },
+    {
+        "name": "(Lake) Broodals Over the Lake 1",
+        "category": [
+            "03 - Lake [21]"
+        ],
+        "requires": [],
+        "region": "Lake Kingdom",
+        "place_item": "Lake Story"
+    },
+    {
+        "name": "(Lake) Broodals Over the Lake 2",
+        "category": [
+            "03 - Lake [21]"
+        ],
+        "requires": [],
+        "region": "Lake Kingdom"
+    },
+    {
+        "name": "(Lake) Broodals Over the Lake 3",
+        "category": [
+            "03 - Lake [21]"
+        ],
+        "requires": [],
+        "region": "Lake Kingdom"
+    },
+    {
+        "name": "(Lake) Dorrie-Back Rider",
+        "category": [
+            "03 - Lake [21]"
+        ],
+        "requires": [],
+        "region": "Lake Kingdom"
+    },
+    {
+        "name": "(Lake) Cheep Cheep Crossing",
+        "category": [
+            "03 - Lake [21]"
+        ],
+        "requires": [],
+        "region": "Lake Kingdom"
+    },
+    {
+        "name": "(Lake) End of the Hidden Passage",
+        "category": [
+            "03 - Lake [21]"
+        ],
+        "requires": [],
+        "region": "Lake Kingdom"
+    },
+    {
+        "name": "(Lake) What's in the Box?",
+        "category": [
+            "03 - Lake [21]"
+        ],
+        "requires": [],
+        "region": "Lake Kingdom"
+    },
+    {
+        "name": "(Lake) On the Lakeshore",
+        "category": [
+            "03 - Lake [21]"
+        ],
+        "requires": [],
+        "region": "Lake Kingdom"
+    },
+    {
+        "name": "(Lake) From the Broken Pillar",
+        "category": [
+            "03 - Lake [21]"
+        ],
+        "requires": [],
+        "region": "Lake Kingdom"
+    },
+    {
+        "name": "(Lake) Treasure in the Spiky Waterway",
+        "category": [
+            "03 - Lake [21]"
+        ],
+        "requires": [],
+        "region": "Lake Kingdom"
+    },
+    {
+        "name": "(Lake) Lake Kingdom Timer Challenge 1",
+        "category": [
+            "03 - Lake [21]"
+        ],
+        "requires": "|Lake Story:1|",
+        "region": "Lake Kingdom"
+    },
+    {
+        "name": "(Lake) Lake Kingdom Timer Challenge 2",
+        "category": [
+            "03 - Lake [21]"
+        ],
+        "requires": "|Lake Story:1|",
+        "region": "Lake Kingdom"
+    },
+    {
+        "name": "(Lake) Moon Shards in the Lake",
+        "category": [
+            "03 - Lake [21]"
+        ],
+        "requires": [],
+        "region": "Lake Kingdom"
+    },
+    {
+        "name": "(Lake) Taking Notes: Dive and Swim",
+        "category": [
+            "03 - Lake [21]"
+        ],
+        "requires": [],
+        "region": "Lake Kingdom"
+    },
+    {
+        "name": "(Lake) Taking Notes: In the Cliffside",
+        "category": [
+            "03 - Lake [21]"
+        ],
+        "requires": [],
+        "region": "Lake Kingdom"
+    },
+    {
+        "name": "(Lake) I Met a Lake Cheep Cheep!",
+        "category": [
+            "03 - Lake [21]"
+        ],
+        "requires": "|Lake Story:1|",
+        "region": "Lake Kingdom"
+    },
+    {
+        "name": "(Lake) Our Secret Little Room",
+        "category": [
+            "03 - Lake [21]"
+        ],
+        "requires": [],
+        "region": "Lake Kingdom"
+    },
+    {
+        "name": "(Lake) Let's Go Swimming, Captain Toad!",
+        "category": [
+            "03 - Lake [21]"
+        ],
+        "requires": [],
+        "region": "Lake Kingdom"
+    },
+    {
+        "name": "(Lake) Shopping in Lake Lamode",
+        "category": [
+            "03 - Lake [21]"
+        ],
+        "requires": [],
+        "region": "Lake Kingdom"
+    },
+    {
+        "name": "(Lake) A Successful Repair Job",
+        "category": [
+            "03 - Lake [21]"
+        ],
+        "requires": "|Lake Story:1|",
+        "region": "Lake Kingdom"
+    },
+    {
+        "name": "(Lake) Unzip the Chasm",
+        "category": [
+            "03 - Lake [21]"
+        ],
+        "requires": [],
+        "region": "Lake Kingdom"
+    },
+    {
+        "name": "(Lake) Super-Secret Zipper",
+        "category": [
+            "03 - Lake [21]"
+        ],
+        "requires": [],
+        "region": "Lake Kingdom"
+    },
+    {
+        "name": "(Lake) Jump, Grab, Cling, and Climb",
+        "category": [
+            "03 - Lake [21]"
+        ],
+        "requires": [],
+        "region": "Lake Kingdom"
+    },
+    {
+        "name": "(Lake) Jump, Grab, and Climb Some More",
+        "category": [
+            "03 - Lake [21]"
+        ],
+        "requires": [],
+        "region": "Lake Kingdom"
+    },
+    {
+        "name": "(Wooded) Road to Sky Garden",
+        "category": [
+            "03 - Wooded [21]"
+        ],
+        "requires": [],
+        "region": "Wooded Kingdom",
+        "place_item": "Wooded Story"
+    },
+    {
+        "name": "(Wooded) Flower Thieves to Sky Garden 1",
+        "category": [
+            "03 - Wooded [21]"
+        ],
+        "requires": "|Wooded Story:1|",
+        "region": "Wooded Kingdom",
+        "place_item": "Wooded Story"
+    },
+    {
+        "name": "(Wooded) Flower Thieves to Sky Garden 2",
+        "category": [
+            "03 - Wooded [21]"
+        ],
+        "requires": "|Wooded Story:1|",
+        "region": "Wooded Kingdom"
+    },
+    {
+        "name": "(Wooded) Flower Thieves to Sky Garden 3",
+        "category": [
+            "03 - Wooded [21]"
+        ],
+        "requires": "|Wooded Story:1|",
+        "region": "Wooded Kingdom"
+    },
+    {
+        "name": "(Wooded) Path to the Secret Flower Field",
+        "category": [
+            "03 - Wooded [21]"
+        ],
+        "requires": "|Wooded Story:2|",
+        "region": "Wooded Kingdom",
+        "place_item": "Wooded Story"
+    },
+    {
+        "name": "(Wooded) Defend the Secret Flower Field! 1",
+        "category": [
+            "03 - Wooded [21]"
+        ],
+        "requires": "|Wooded Story:3|",
+        "region": "Wooded Kingdom",
+        "place_item": "Wooded Story"
+    },
+    {
+        "name": "(Wooded) Defend the Secret Flower Field! 2",
+        "category": [
+            "03 - Wooded [21]"
+        ],
+        "requires": "|Wooded Story:3|",
+        "region": "Wooded Kingdom"
+    },
+    {
+        "name": "(Wooded) Defend the Secret Flower Field! 3",
+        "category": [
+            "03 - Wooded [21]"
+        ],
+        "requires": "|Wooded Story:3|",
+        "region": "Wooded Kingdom"
+    },
+    {
+        "name": "(Wooded) Behind the Rock Wall",
+        "category": [
+            "03 - Wooded [21]"
+        ],
+        "requires": "|Wooded Story:2|",
+        "region": "Wooded Kingdom"
+    },
+    {
+        "name": "(Wooded) Back Way Up the Mountain",
+        "category": [
+            "03 - Wooded [21]"
+        ],
+        "requires": "|Wooded Story:2|",
+        "region": "Wooded Kingdom"
+    },
+    {
+        "name": "(Wooded) Rolling Rock in the Woods",
+        "category": [
+            "03 - Wooded [21]"
+        ],
+        "requires": [],
+        "region": "Wooded Kingdom"
+    },
+    {
+        "name": "(Wooded) Caught Hopping in the Forest!",
+        "category": [
+            "03 - Wooded [21]"
+        ],
+        "requires": [],
+        "region": "Wooded Kingdom"
+    },
+    {
+        "name": "(Wooded) Thanks for the Charge!",
+        "category": [
+            "03 - Wooded [21]"
+        ],
+        "requires": "|Wooded Story:2|",
+        "region": "Wooded Kingdom"
+    },
+    {
+        "name": "(Wooded) Atop the Tall Tree",
+        "category": [
+            "03 - Wooded [21]"
+        ],
+        "requires": [],
+        "region": "Wooded Kingdom"
+    },
+    {
+        "name": "(Wooded) Tucked Away Inside the Tunnel",
+        "category": [
+            "03 - Wooded [21]"
+        ],
+        "requires": [],
+        "region": "Wooded Kingdom"
+    },
+    {
+        "name": "(Wooded) Over the Cliff's Edge",
+        "category": [
+            "03 - Wooded [21]"
+        ],
+        "requires": "|Wooded Story:2|",
+        "region": "Wooded Kingdom"
+    },
+    {
+        "name": "(Wooded) The Nut 'Round The Corner",
+        "category": [
+            "03 - Wooded [21]"
+        ],
+        "requires": [],
+        "region": "Wooded Kingdom"
+    },
+    {
+        "name": "(Wooded) Climb the Cliff to Get the Nut",
+        "category": [
+            "03 - Wooded [21]"
+        ],
+        "requires": [],
+        "region": "Wooded Kingdom"
+    },
+    {
+        "name": "(Wooded) The Nut in the Red Maze",
+        "category": [
+            "03 - Wooded [21]"
+        ],
+        "requires": [],
+        "region": "Wooded Kingdom"
+    },
+    {
+        "name": "(Wooded) The Nut at the Dead End",
+        "category": [
+            "03 - Wooded [21]"
+        ],
+        "requires": [],
+        "region": "Wooded Kingdom"
+    },
+    {
+        "name": "(Wooded) Cracked Nut on a Crumbling Tower",
+        "category": [
+            "03 - Wooded [21]"
+        ],
+        "requires": "|Wooded Story:1|",
+        "region": "Wooded Kingdom"
+    },
+    {
+        "name": "(Wooded) The Nut that Grew on the Tall Fence",
+        "category": [
+            "03 - Wooded [21]"
+        ],
+        "requires": "|Wooded Story:2|",
+        "region": "Wooded Kingdom"
+    },
+    {
+        "name": "(Wooded) Fire in the Cave",
+        "category": [
+            "03 - Wooded [21]"
+        ],
+        "requires": [],
+        "region": "Wooded Kingdom"
+    },
+    {
+        "name": "(Wooded) Hey Out There, Captain Toad!",
+        "category": [
+            "03 - Wooded [21]"
+        ],
+        "requires": "|Wooded Story:4|",
+        "region": "Wooded Kingdom"
+    },
+    {
+        "name": "(Wooded) Love in the Forest Ruins",
+        "category": [
+            "03 - Wooded [21]"
+        ],
+        "requires": "|Wooded Story:2|",
+        "region": "Wooded Kingdom"
+    },
+    {
+        "name": "(Wooded) Inside a Rock in the Forest",
+        "category": [
+            "03 - Wooded [21]"
+        ],
+        "requires": "|Wooded Story:4|",
+        "region": "Wooded Kingdom"
+    },
+    {
+        "name": "(Wooded) Shopping in Steam Gardens",
+        "category": [
+            "03 - Wooded [21]"
+        ],
+        "requires": [],
+        "region": "Wooded Kingdom"
+    },
+    {
+        "name": "(Wooded) Nut Planted in the Tower",
+        "category": [
+            "03 - Wooded [21]"
+        ],
+        "requires": "|Wooded Story:1|",
+        "region": "Wooded Kingdom"
+    },
+    {
+        "name": "(Wooded) Stretching Your Legs",
+        "category": [
+            "03 - Wooded [21]"
+        ],
+        "requires": "|Wooded Story:1|",
+        "region": "Wooded Kingdom"
+    },
+    {
+        "name": "(Wooded) Spinning-Platforms Treasure",
+        "category": [
+            "03 - Wooded [21]"
+        ],
+        "requires": "|Wooded Story:2|",
+        "region": "Wooded Kingdom"
+    },
+    {
+        "name": "(Wooded) Make the Secret Flower Field Bloom",
+        "category": [
+            "03 - Wooded [21]"
+        ],
+        "requires": "|Wooded Story:4|",
+        "region": "Wooded Kingdom"
+    },
+    {
+        "name": "(Wooded) Wooded Kingdom Timer Challenge 1",
+        "category": [
+            "03 - Wooded [21]"
+        ],
+        "requires": "|Wooded Story:4|",
+        "region": "Wooded Kingdom"
+    },
+    {
+        "name": "(Wooded) Wooded Kingdom Timer Challenge 2",
+        "category": [
+            "03 - Wooded [21]"
+        ],
+        "requires": "|Wooded Story:4|",
+        "region": "Wooded Kingdom"
+    },
+    {
+        "name": "(Wooded) Flooding Pipeway",
+        "category": [
+            "03 - Wooded [21]"
+        ],
+        "requires": [],
+        "region": "Wooded Kingdom"
+    },
+    {
+        "name": "(Wooded) Flooding Pipeway Ceiling Secret",
+        "category": [
+            "03 - Wooded [21]"
+        ],
+        "requires": [],
+        "region": "Wooded Kingdom"
+    },
+    {
+        "name": "(Wooded) Wandering in the Fog",
+        "category": [
+            "03 - Wooded [21]"
+        ],
+        "requires": "|Wooded Story:2|",
+        "region": "Wooded Kingdom"
+    },
+    {
+        "name": "(Wooded) Nut Hidden in the Fog",
+        "category": [
+            "03 - Wooded [21]"
+        ],
+        "requires": "|Wooded Story:2|",
+        "region": "Wooded Kingdom"
+    },
+    {
+        "name": "(Wooded) Flower Road Run",
+        "category": [
+            "03 - Wooded [21]"
+        ],
+        "requires": "|Wooded Story:2|",
+        "region": "Wooded Kingdom"
+    },
+    {
+        "name": "(Wooded) Flower Road Reach",
+        "category": [
+            "03 - Wooded [21]"
+        ],
+        "requires": "|Wooded Story:2|",
+        "region": "Wooded Kingdom"
+    },
+    {
+        "name": "(Wooded) Elevator Escalation",
+        "category": [
+            "03 - Wooded [21]"
+        ],
+        "requires": "|Wooded Story:2|",
+        "region": "Wooded Kingdom"
+    },
+    {
+        "name": "(Wooded) Elevator Blind Spot",
+        "category": [
+            "03 - Wooded [21]"
+        ],
+        "requires": "|Wooded Story:2|",
+        "region": "Wooded Kingdom"
+    },
+    {
+        "name": "(Wooded) Walking on Clouds",
+        "category": [
+            "03 - Wooded [21]"
+        ],
+        "requires": "|Wooded Story:4|",
+        "region": "Wooded Kingdom"
+    },
+    {
+        "name": "(Wooded) Above the Clouds",
+        "category": [
+            "03 - Wooded [21]"
+        ],
+        "requires": "|Wooded Story:4|",
+        "region": "Wooded Kingdom"
+    },
+    {
+        "name": "(Cloud) Bowser 1",
+        "category": [
+            "05 - Cloud [45]"
+        ],
+        "requires": [],
+        "region": "Cloud Kingdom"
+    },
+    {
+        "name": "(Lost) Atop a Propeller Pillar",
+        "category": [
+            "06 - Lost [45]"
+        ],
+        "requires": [],
+        "region": "Lost Kingdom"
+    },
+    {
+        "name": "(Lost) Below the Cliff's Edge",
+        "category": [
+            "06 - Lost [45]"
+        ],
+        "requires": [],
+        "region": "Lost Kingdom"
+    },
+    {
+        "name": "(Lost) Inside the Stone Cage",
+        "category": [
+            "06 - Lost [45]"
+        ],
+        "requires": [],
+        "region": "Lost Kingdom"
+    },
+    {
+        "name": "(Lost) On a Tree in the Swamp",
+        "category": [
+            "06 - Lost [45]"
+        ],
+        "requires": [],
+        "region": "Lost Kingdom"
+    },
+    {
+        "name": "(Lost) Over the Fuzzies, Above the Swamp",
+        "category": [
+            "06 - Lost [45]"
+        ],
+        "requires": [],
+        "region": "Lost Kingdom"
+    },
+    {
+        "name": "(Lost) Avoiding Fuzzies Inside the Wall",
+        "category": [
+            "06 - Lost [45]"
+        ],
+        "requires": [],
+        "region": "Lost Kingdom"
+    },
+    {
+        "name": "(Lost) Inside the Rising Stone Pillar",
+        "category": [
+            "06 - Lost [45]"
+        ],
+        "requires": [],
+        "region": "Lost Kingdom"
+    },
+    {
+        "name": "(Lost) Enjoying the View of Forgotten Isle",
+        "category": [
+            "06 - Lost [45]"
+        ],
+        "requires": [],
+        "region": "Lost Kingdom"
+    },
+    {
+        "name": "(Lost) On the Mountain Road",
+        "category": [
+            "06 - Lost [45]"
+        ],
+        "requires": [],
+        "region": "Lost Kingdom"
+    },
+    {
+        "name": "(Lost) A Propeller Pillar's Secret",
+        "category": [
+            "06 - Lost [45]"
+        ],
+        "requires": [],
+        "region": "Lost Kingdom"
+    },
+    {
+        "name": "(Lost) Wrecked Rock Block",
+        "category": [
+            "06 - Lost [45]"
+        ],
+        "requires": [],
+        "region": "Lost Kingdom"
+    },
+    {
+        "name": "(Lost) A Butterfly's Treasure",
+        "category": [
+            "06 - Lost [45]"
+        ],
+        "requires": [],
+        "region": "Lost Kingdom"
+    },
+    {
+        "name": "(Lost) Caught Hopping in the Jungle!",
+        "category": [
+            "06 - Lost [45]"
+        ],
+        "requires": [],
+        "region": "Lost Kingdom"
+    },
+    {
+        "name": "(Lost) Cave Gardening",
+        "category": [
+            "06 - Lost [45]"
+        ],
+        "requires": [],
+        "region": "Lost Kingdom"
+    },
+    {
+        "name": "(Lost) Moon Shards in the Jungle",
+        "category": [
+            "06 - Lost [45]"
+        ],
+        "requires": [],
+        "region": "Lost Kingdom"
+    },
+    {
+        "name": "(Lost) Peeking Out From Under the Bridge",
+        "category": [
+            "06 - Lost [45]"
+        ],
+        "requires": [],
+        "region": "Lost Kingdom"
+    },
+    {
+        "name": "(Lost) Twist 'n' Turn-Up Treasure",
+        "category": [
+            "06 - Lost [45]"
+        ],
+        "requires": [],
+        "region": "Lost Kingdom"
+    },
+    {
+        "name": "(Lost) Soaring Over Forgotten Isle!",
+        "category": [
+            "06 - Lost [45]"
+        ],
+        "requires": [],
+        "region": "Lost Kingdom"
+    },
+    {
+        "name": "(Lost) The Caged Gold",
+        "category": [
+            "06 - Lost [45]"
+        ],
+        "requires": [],
+        "region": "Lost Kingdom"
+    },
+    {
+        "name": "(Lost) Get Some Rest, Captain Toad!",
+        "category": [
+            "06 - Lost [45]"
+        ],
+        "requires": [],
+        "region": "Lost Kingdom"
+    },
+    {
+        "name": "(Lost) Shopping on Forgotten Isle",
+        "category": [
+            "06 - Lost [45]"
+        ],
+        "requires": [],
+        "region": "Lost Kingdom"
+    },
+    {
+        "name": "(Metro) New Donk City's Pest Problem 1",
+        "category": [
+            "07 - Metro [55]"
+        ],
+        "requires": [],
+        "region": "Metro Kingdom",
+        "place_item": "Metro Story"
+    },
+    {
+        "name": "(Metro) New Donk City's Pest Problem 2",
+        "category": [
+            "07 - Metro [55]"
+        ],
+        "requires": [],
+        "region": "Metro Kingdom"
+    },
+    {
+        "name": "(Metro) New Donk City's Pest Problem 3",
+        "category": [
+            "07 - Metro [55]"
+        ],
+        "requires": [],
+        "region": "Metro Kingdom"
+    },
+    {
+        "name": "(Metro) Drummer on Board!",
+        "category": [
+            "07 - Metro [55]"
+        ],
+        "requires": "|Metro Story:1|",
+        "region": "Metro Kingdom"
+    },
+    {
+        "name": "(Metro) Guitarist on Board!",
+        "category": [
+            "07 - Metro [55]"
+        ],
+        "requires": "|Metro Story:1|",
+        "region": "Metro Kingdom"
+    },
+    {
+        "name": "(Metro) Bassist on Board!",
+        "category": [
+            "07 - Metro [55]"
+        ],
+        "requires": "|Metro Story:1|",
+        "region": "Metro Kingdom"
+    },
+    {
+        "name": "(Metro) Trumpeter on Board!",
+        "category": [
+            "07 - Metro [55]"
+        ],
+        "requires": "|Metro Story:1|",
+        "region": "Metro Kingdom"
+    },
+    {
+        "name": "(Metro) Band Assembled",
+        "category": [
+            "07 - Metro [55]"
+        ],
+        "requires": "|Metro Story:1|",
+        "region": "Metro Kingdom",
+        "place_item": "Metro Story"
+    },
+    {
+        "name": "(Metro) Powering Up the Station",
+        "category": [
+            "07 - Metro [55]"
+        ],
+        "requires": "|Metro Story:2|",
+        "region": "Metro Kingdom"
+    },
+    {
+        "name": "(Metro) Inside an Iron Girder",
+        "category": [
+            "07 - Metro [55]"
+        ],
+        "requires": [],
+        "region": "Metro Kingdom"
+    },
+    {
+        "name": "(Metro) Swaying in the Breeze",
+        "category": [
+            "07 - Metro [55]"
+        ],
+        "requires": [],
+        "region": "Metro Kingdom"
+    },
+    {
+        "name": "(Metro) Girder Sandwich",
+        "category": [
+            "07 - Metro [55]"
+        ],
+        "requires": [],
+        "region": "Metro Kingdom"
+    },
+    {
+        "name": "(Metro) Glittering Above the Pool",
+        "category": [
+            "07 - Metro [55]"
+        ],
+        "requires": "|Metro Story:1|",
+        "region": "Metro Kingdom"
+    },
+    {
+        "name": "(Metro) Dizzying Heights",
+        "category": [
+            "07 - Metro [55]"
+        ],
+        "requires": "|Metro Story:1|",
+        "region": "Metro Kingdom"
+    },
+    {
+        "name": "(Metro) Secret Girder Tunnel!",
+        "category": [
+            "07 - Metro [55]"
+        ],
+        "requires": "|Metro Story:1|",
+        "region": "Metro Kingdom"
+    },
+    {
+        "name": "(Metro) Who Piled Garbage on This?",
+        "category": [
+            "07 - Metro [55]"
+        ],
+        "requires": "|Metro Story:1|",
+        "region": "Metro Kingdom"
+    },
+    {
+        "name": "(Metro) Hidden in the Scrap",
+        "category": [
+            "07 - Metro [55]"
+        ],
+        "requires": "|Metro Story:1|",
+        "region": "Metro Kingdom"
+    },
+    {
+        "name": "(Metro) Left at the Cafe?",
+        "category": [
+            "07 - Metro [55]"
+        ],
+        "requires": "|Metro Story:1|",
+        "region": "Metro Kingdom"
+    },
+    {
+        "name": "(Metro) How Do They Take Out the Trash?",
+        "category": [
+            "07 - Metro [55]"
+        ],
+        "requires": "|Metro Story:1|",
+        "region": "Metro Kingdom"
+    },
+    {
+        "name": "(Metro) How You Doin', Captain Toad?",
+        "category": [
+            "07 - Metro [55]"
+        ],
+        "requires": "|Metro Story:1|",
+        "region": "Metro Kingdom"
+    },
+    {
+        "name": "(Metro) Free Parking: Rooftop Hop",
+        "category": [
+            "07 - Metro [55]"
+        ],
+        "requires": "|Metro Story:1|",
+        "region": "Metro Kingdom"
+    },
+    {
+        "name": "(Metro) Bench Friends",
+        "category": [
+            "07 - Metro [55]"
+        ],
+        "requires": "|Metro Story:1|",
+        "region": "Metro Kingdom"
+    },
+    {
+        "name": "(Metro) Shopping in New Donk City",
+        "category": [
+            "07 - Metro [55]"
+        ],
+        "requires": [],
+        "region": "Metro Kingdom"
+    },
+    {
+        "name": "(Metro) Metro Kingdom Slots",
+        "category": [
+            "07 - Metro [55]"
+        ],
+        "requires": [],
+        "region": "Metro Kingdom"
+    },
+    {
+        "name": "(Metro) Remotely Captured Car",
+        "category": [
+            "07 - Metro [55]"
+        ],
+        "requires": "|Metro Story:1|",
+        "region": "Metro Kingdom"
+    },
+    {
+        "name": "(Metro) RC Car Pro!",
+        "category": [
+            "07 - Metro [55]"
+        ],
+        "requires": "|Metro Story:1|",
+        "region": "Metro Kingdom"
+    },
+    {
+        "name": "(Metro) Taking Notes: In the Private Room",
+        "category": [
+            "07 - Metro [55]"
+        ],
+        "requires": "|Metro Story:1|",
+        "region": "Metro Kingdom"
+    },
+    {
+        "name": "(Metro) City Hall Lost & Found",
+        "category": [
+            "07 - Metro [55]"
+        ],
+        "requires": [],
+        "region": "Metro Kingdom"
+    },
+    {
+        "name": "(Metro) Sewer Treasure",
+        "category": [
+            "07 - Metro [55]"
+        ],
+        "requires": "|Metro Story:2|",
+        "region": "Metro Kingdom"
+    },
+    {
+        "name": "(Metro) Pushing Through the Crowd",
+        "category": [
+            "07 - Metro [55]"
+        ],
+        "requires": "|Metro Story:1|",
+        "region": "Metro Kingdom"
+    },
+    {
+        "name": "(Metro) High Over the Crowd",
+        "category": [
+            "07 - Metro [55]"
+        ],
+        "requires": "|Metro Story:1|",
+        "region": "Metro Kingdom"
+    },
+    {
+        "name": "(Metro) Moon Shards Under Siege",
+        "category": [
+            "07 - Metro [55]"
+        ],
+        "requires": "|Metro Story:1|",
+        "region": "Metro Kingdom"
+    },
+    {
+        "name": "(Metro) Sharpshooting Under Siege",
+        "category": [
+            "07 - Metro [55]"
+        ],
+        "requires": "|Metro Story:1|",
+        "region": "Metro Kingdom"
+    },
+    {
+        "name": "(Metro) Inside the Rotating Maze",
+        "category": [
+            "07 - Metro [55]"
+        ],
+        "requires": "|Metro Story:1|",
+        "region": "Metro Kingdom"
+    },
+    {
+        "name": "(Metro) Outside the Rotating Maze",
+        "category": [
+            "07 - Metro [55]"
+        ],
+        "requires": "|Metro Story:1|",
+        "region": "Metro Kingdom"
+    },
+    {
+        "name": "(Metro) Hanging from a High-Rise",
+        "category": [
+            "07 - Metro [55]"
+        ],
+        "requires": "|Metro Story:1|",
+        "region": "Metro Kingdom"
+    },
+    {
+        "name": "(Metro) Vaulting up a High-Rise",
+        "category": [
+            "07 - Metro [55]"
+        ],
+        "requires": "|Metro Story:1|",
+        "region": "Metro Kingdom"
+    },
+    {
+        "name": "(Metro) Bullet Billding",
+        "category": [
+            "07 - Metro [55]"
+        ],
+        "requires": "|Metro Story:1|",
+        "region": "Metro Kingdom"
+    },
+    {
+        "name": "(Metro) One Man's Trash...",
+        "category": [
+            "07 - Metro [55]"
+        ],
+        "requires": "|Metro Story:1|",
+        "region": "Metro Kingdom"
+    },
+    {
+        "name": "(Metro) Motor Scooter: Escape!",
+        "category": [
+            "07 - Metro [55]"
+        ],
+        "requires": "|Metro Story:1|",
+        "region": "Metro Kingdom"
+    },
+    {
+        "name": "(Metro) Big Jump: Escape!",
+        "category": [
+            "07 - Metro [55]"
+        ],
+        "requires": "|Metro Story:1|",
+        "region": "Metro Kingdom"
+    },
+    {
+        "name": "(Metro) A Traditional Festival",
+        "category": [
+            "07 - Metro [75]"
+        ],
+        "requires": "|NDC Power| AND |Metro Story:2| AND |Power Moon:75|",
+        "victory": true,
+        "region": "Metro Kingdom"
+    }
+]
