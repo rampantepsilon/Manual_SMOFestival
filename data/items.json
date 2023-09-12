@@ -54,5 +54,10 @@
 			"Beatable"
 		],
 		"progression": true
+	},
+	{
+		"count": "1",
+		"name": "Victory",
+		"progression": true
 	}
 ]
