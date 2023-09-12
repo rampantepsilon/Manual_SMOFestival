@@ -1803,6 +1803,15 @@
             "07 - Metro [75]"
         ],
         "requires": "|NDC Power| AND |Metro Story:2| AND |Power Moon:75|",
+        "place_item": "Victory",
+        "region": "Metro Kingdom"
+    },
+    {
+        "name": "Game Completed",
+        "category": [
+            "07 - Metro [75]"
+        ],
+        "requires": "|NDC Power| AND |Metro Story:2| AND |Power Moon:75|",
         "victory": true,
         "region": "Metro Kingdom"
     }
